@@ -1,0 +1,6 @@
+.div_2 {
+    text-shadow: 2px 2px 5px green;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 24pt;
+}
