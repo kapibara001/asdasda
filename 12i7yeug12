@@ -1,6 +1,2 @@
-.div_2 {
-    text-shadow: 2px 2px 5px green;
-    font-family: 'Courier New', Courier, monospace;
-    text-align: center;
-    font-size: 24pt;
-}
+            <label for="texting"></label>
+            <textarea class="form-control" name="123" id="texting" rows="3" style="height: 148px;"></textarea>
